@@ -54,7 +54,7 @@ Installation of the readme Generator can be completed through a github download 
 
 ### Usage Instructions
 
-![Portfolio](./assets/Readme Generator2.mp4)
+![Portfolio](./assets/readme_generator2.mp4)
 
 
 ![Portfolio](./assets/pic1.JPG)
