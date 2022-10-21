@@ -53,8 +53,8 @@ Installation of the readme Generator can be completed through a github download 
 -------------------------------------
 
 ### Usage Instructions
-Link to a video on github that can be downloaded and viewed, 5mb to large to display on Readme.
-![Portfolio](./assets/usage_instruction.webm)
+
+![Portfolio](./assets/Readme Generator2.mp4)
 
 
 ![Portfolio](./assets/pic1.JPG)
